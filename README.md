@@ -17,7 +17,7 @@ datasets usados
   
   url del video de casos positivos de vovid-19 en el departamento de Ica.
   
-  
+  https://www.youtube.com/watch?v=UbhmaBFT0qo&feature=youtu.be
   
 
 
